@@ -1,4 +1,4 @@
-body {
+body{
     background-color: #282c34;
     color: #61adfb;
     text-align: center;
@@ -6,7 +6,7 @@ body {
     padding: 40px 0;
 }
 
-.clock {
+.clock{
     display: inline-block;
     font-size: 48px;
     padding: 20px;
@@ -14,7 +14,7 @@ body {
     border-radius: 10px;
 }
 
-#time {
+#time{
     font-size: 64px;
     font-style: italic;
     font-weight: bold;
